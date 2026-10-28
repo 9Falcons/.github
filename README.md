@@ -3,7 +3,7 @@
 **Software development and AI agency building practical, scalable digital products.**
 
 🌐 **Website:** https://www.9falcons.com/  
-📍 **Location:** Rawalpindi, Pakistan  
+📍 **Location:** London, United Kingdom  
 📧 **Contact:** ceo@9falcons.com
 
 ## What We Build
